@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Dark rounded background -->
+  <rect width="32" height="32" rx="6" fill="#09090b"/>
+  <!-- K Mark centered -->
+  <g transform="translate(4, 4)">
+    <!-- Left vertical - dark navy hourglass -->
+    <polygon points="2,0 8,0 6,12 8,24 2,24" fill="#1e3a5f"/>
+    <polygon points="2,0 8,0 6,12" fill="#234b73"/>
+    <polygon points="2,24 8,24 6,12" fill="#182d47"/>
+    <!-- Top-right arm -->
+    <polygon points="8,0 20,0 9,12" fill="#4a8ec9"/>
+    <polygon points="20,0 22,0 22,10 9,12" fill="#60a5fa"/>
+    <!-- Bottom-right arm -->
+    <polygon points="8,24 20,24 9,12" fill="#4a8ec9"/>
+    <polygon points="20,24 22,24 22,14 9,12" fill="#3b82f6"/>
+    <!-- Center light accents -->
+    <polygon points="6,12 9,12 8,0" fill="#8ec5ed" opacity="0.5"/>
+    <polygon points="6,12 9,12 8,24" fill="#7ab5dd" opacity="0.4"/>
+  </g>
+</svg>
