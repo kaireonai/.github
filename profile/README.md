@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/267100795?v=4" alt="KaireonAI" width="80" height="80">
+  <img src="https://raw.githubusercontent.com/kaireonai/.github/main/profile/icon.svg" alt="KaireonAI" width="80" height="80">
 </p>
 
 <h1 align="center">KaireonAI</h1>
